@@ -2,15 +2,15 @@ import React from 'react'
 
 const Activities1 = () => {
   const activities = [
-    { id: 1, image: "/public/Activities/i1.png" },
-    { id: 2, image: "/public/Activities/i2.png" },
-    { id: 3, image: "/public/Activities/i3.png" },
-    { id: 4, image: "/public/Activities/i4.png" },
-    { id: 5, image: "/public/Activities/i5.png" },
-    { id: 6, image: "/public/Activities/i6.png" },
-    { id: 7, image: "/public/Activities/i7.png" },
-    { id: 8, image: "/public/Activities/i8.png" },
-    { id: 9, image: "/public/Activities/i9.png" }
+    { id: 1, image: "./Activities/i1.png" },
+    { id: 2, image: "./Activities/i2.png" },
+    { id: 3, image: "./Activities/i3.png" },
+    { id: 4, image: "./Activities/i4.png" },
+    { id: 5, image: "./Activities/i5.png" },
+    { id: 6, image: "./Activities/i6.png" },
+    { id: 7, image: "./Activities/i7.png" },
+    { id: 8, image: "./Activities/i8.png" },
+    { id: 9, image: "./Activities/i9.png" }
   ];
 
   return (
