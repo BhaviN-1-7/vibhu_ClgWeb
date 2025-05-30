@@ -13,7 +13,7 @@ const Courses = () => {
           <div className="card md:flex-row bg-base-100 shadow-xl">
             <figure className="md:w-2/5 min-h-[200px]">
               <img
-                src="/assets/archstamp.png"
+                src="./assets/archstamp.png"
                 alt="Degree Building"
                 className="h-full w-full object-cover"
               />

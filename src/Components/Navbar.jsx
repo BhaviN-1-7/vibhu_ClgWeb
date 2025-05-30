@@ -23,7 +23,7 @@ const Navbar = () => {
       <div className="navbar bg-base-100 shadow-md backdrop-blur-sm bg-opacity-90">
         <div className="flex-1">
           <Link to="/">
-            <img src="/assets/image1.png" alt="college title image" className="h-12 mr-3" />
+            <img src="./assets/image1.png" alt="college title image" className="h-12 mr-3" />
           </Link>
         </div>
         <div className="flex-none">
