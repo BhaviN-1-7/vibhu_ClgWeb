@@ -7,7 +7,7 @@ const MI = () => {
         className="hero min-h-[60vh]"
         style={{
           backgroundImage:
-            "url(assets/fullimg.png)",
+            "url(./assets/fullimg.png)",
         }}
       >
         <div className="hero-overlay bg-opacity-60"></div>

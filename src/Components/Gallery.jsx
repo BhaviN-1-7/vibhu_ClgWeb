@@ -4,55 +4,55 @@ const Gallery = () => {
   const galleryItems = [
     {
       id: 1,
-      image: "/assets/fntstamp.png",
+      image: "./assets/fntstamp.png",
       title: "College Entrance View",
       description: "Beautiful exterior view of our college building showcasing the architectural design."
     },
     {
       id: 2,
-      image: "/public/gallery/chemlab.png",
+      image: "./gallery/chemlab.png",
       title: "Chemistry Laboratory",
       description: "State-of-the-art chemistry lab with safety equipment and apparatus for conducting experiments."
     },
     {
       id: 3,
-      image: "/public/gallery/classroom.png",
+      image: "./gallery/classroom.png",
       title: "Classroom",
       description: "Modern classroom equipped with comfortable seating arrangements."
     },
     {
       id: 5,
-      image: "/public/gallery/complab.png",
+      image: "./gallery/complab.png",
       title: "Computer Laboratory",
       description: "Advanced computer lab with latest hardware and software for practical computer science education."
     },
     {
       id: 6,
-      image: "/public/gallery/libary.png",
+      image: "./gallery/libary.png",
       title: "College Library",
       description: "Spacious library with vast collection of books, journals, and digital resources."
     },
     {
       id: 7,
-      image: "/public/gallery/phylab.png",
+      image: "./gallery/phylab.png",
       title: "Physics Laboratory",
       description: "Well-maintained physics lab with modern equipment for conducting physics experiments."
     },
     {
       id: 8,
-      image: "/public/gallery/seminarhall.png",
+      image: "./gallery/seminarhall.png",
       title: "Seminar Hall",
       description: "Large seminar hall for conducting academic events, conferences, and student presentations."
     },
     {
       id: 4,
-      image: "/public/gallery/botlab.png",
+      image: "./gallery/botlab.png",
       title: "Botany Laboratory",
       description: "Well-equipped botany lab with modern microscopes and specimens for practical botanical studies."
     },
     {
       id: 9,
-      image: "/public/gallery/zoolab.png",
+      image: "./gallery/zoolab.png",
       title: "Zoology Laboratory",
       description: "Comprehensive zoology lab with specimens and equipment for biological studies."
     }
