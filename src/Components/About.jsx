@@ -7,7 +7,7 @@ const About = () => {
         <div className="hero-content flex-col lg:flex-row-reverse gap-6 py-6 px-4">
           <div className="text-center">
             <img
-              src="/assets/image2.png"
+              src="assets/image2.png"
               className="w-[280px] h-[360px] rounded-lg shadow-lg object-cover mb-4"
               alt="Secretary & Correspondent"
             />
